@@ -37,8 +37,7 @@ This project aims to analyze Olympic data, including information about athletes,
      - `Medal`: The medal won by the athlete, if any (Gold, Silver, Bronze).
 
 3. **`Olympic Games.dbc`**  
-   This file appears to contain additional data in a DBC format (usually associated with databases). Further analysis or conversion of this file is required to understand its contents.
-
+   The databricks file, containing the code to analyse the datasets.
 ## Project Objectives
 
 - Perform detailed analysis on athlete participation, performance trends, and medal distributions across different countries and sports.
@@ -50,18 +49,7 @@ This project aims to analyze Olympic data, including information about athletes,
 
 ### Prerequisites
 
-- Python (version 3.x or higher)
-- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn` (for data analysis and visualization)
-
-### Instructions
-
-1. Clone the repository.
-2. Install required Python libraries:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Load and explore the datasets using the provided Jupyter notebooks or Python scripts.
-4. Analyze the data based on your objectives.
+- Databricks account
 
 ### Sample Analysis
 
@@ -74,6 +62,6 @@ A basic exploration of the `athlete_events.csv` and `noc_regions.csv` files can 
 
 - Further process the `Olympic Games.dbc` file for potential new insights.
 - Perform advanced statistical modeling to predict medal outcomes based on athlete and event characteristics.
-- Explore visualizations of global Olympic trends using interactive dashboards.
+- Explore visualizations of global Olympic trends using interactive dashboards using Tableau, PowerBI etc.
 
 ---
