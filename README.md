@@ -1,7 +1,3 @@
-Based on the analysis of the files, here's a README for your project:
-
----
-
 # Olympic Data Analysis Project
 
 ## Overview
